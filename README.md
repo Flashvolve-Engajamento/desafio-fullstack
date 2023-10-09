@@ -40,15 +40,19 @@ Construir uma solução que permita aos usuários interagir com chats ou grupos 
 
 ## Bônus:
 
-- Implementação de testes automatizados.
-- Analíse de sentimento das mensagens com IA.
-- Aplicação publicada em algum servidor online, exemplo: 
-    [Glitch](https://glitch.com/) Para o Backend e Front
-    [Render](https://render.com/) Para Banckend
-    [Replit](https://replit.com/) Para o Backend e Front
-    [Vercel](https://vercel.com/) Para o Backend e Front
-    [Firebase Hosting](https://firebase.google.com/docs/hosting/quickstart?hl=pt-br) Para Frontend
-    
+- **Testes Automatizados**: Implementação de testes para validar o funcionamento das funcionalidades.
+  
+- **Análise de Sentimento**: Utilização de Inteligência Artificial para analisar o sentimento das mensagens recebidas pelo bot.
+
+- **Publicação Online**: Ter a aplicação funcionando em um servidor online. Aqui estão algumas opções:
+    - **Backend e Frontend**:
+      - [Glitch](https://glitch.com/)
+      - [Replit](https://replit.com/)
+      - [Vercel](https://vercel.com/)
+    - **Apenas Backend**:
+      - [Render](https://render.com/)
+    - **Apenas Frontend**:
+      - [Firebase Hosting](https://firebase.google.com/docs/hosting/quickstart?hl=pt-br)
 
 
 ## Entrega:
