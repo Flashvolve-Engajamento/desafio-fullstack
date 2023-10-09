@@ -19,19 +19,16 @@ Construir uma solução que permita aos usuários interagir com chats ou grupos 
 
 ### Frontend (Vue.js com Composition API):
 
-1. Desenvolva uma interface web que permita ao usuário:
+1. Desenvolva uma interface web que permita ao administrador:
     - Autenticar-se.
-    - Escolher um chat ou grupo do Telegram.
-    - Enviar mensagens para esse chat ou grupo.
-    - Visualizar mensagens recebidas desse chat ou grupo.
+    - Visualizar em tempo real as mensagens recebidas pelo bot.
+    - Enviar respostas para os usuários que interagiram com o bot.
 2. Utilize a Composition API de Vue.js para gerenciar o estado e a lógica da aplicação.
 
 ## Recursos:
 
 - Use a [API do Telegram](https://core.telegram.org/bots/api) para as funcionalidades requeridas.
 - Pode utilizar frameworks como Express.js para o backend.
-- Layout pode ser utilizado frameworks como Bootstrap, Foundation, Semantic, etc.
-- Realize commits (git) constantes de acordo coma progressão das atividades.
 
 ## Critérios de Avaliação:
 
@@ -44,12 +41,20 @@ Construir uma solução que permita aos usuários interagir com chats ou grupos 
 ## Bônus:
 
 - Implementação de testes automatizados.
+- Analíse de sentimento das mensagens com IA.
+- Aplicação publicada em algum servidor online, exemplo: 
+    [Glitch](https://glitch.com/) Para o Backend e Front
+    [Render](https://render.com/) Para Banckend
+    [Replit](https://replit.com/) Para o Backend e Front
+    [Vercel](https://vercel.com/) Para o Backend e Front
+    [Firebase Hosting](https://firebase.google.com/docs/hosting/quickstart?hl=pt-br) Para Frontend
+    
+
 
 ## Entrega:
 
 - O código deve ser entregue em um repositório no GitHub.
 - Inclua instruções detalhadas para execução e teste do projeto neste README.
-- Inclua o nome do seu BOT do telegram.
 
 ---
 
